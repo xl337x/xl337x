@@ -96,7 +96,7 @@
 
 ---
 
-## 🚀 Featured Security Project
+## Latest Security Project
 
 <div align="center">
   
@@ -119,7 +119,7 @@
 
 ---
 
-## 🔥 Security Operations
+##  Security Operations
 
 <div align="center">
   
@@ -156,7 +156,7 @@
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 <div align="center">
   
@@ -170,7 +170,7 @@
 
 ---
 
-## 🌐 Professional Network
+## 🌐 Feel Free To Connect
 
 <div align="center">
   
@@ -183,7 +183,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 <div align="center">
   
