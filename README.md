@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xl337x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" height="170" alt="GitHub Stats"/>
@@ -170,7 +170,7 @@
 
 ---
 
-## 🌐 Feel Free To Connect
+##  Feel Free To Connect
 
 <div align="center">
   
