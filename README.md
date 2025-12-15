@@ -95,8 +95,7 @@
 </div>
 
 ---
-
-## Latest Security Project
+## Latest Security Projects
 
 <div align="center">
   
@@ -106,6 +105,13 @@
   
   ![GitHub stars](https://img.shields.io/github/stars/xl337x/Wizard-Octopus?style=for-the-badge&logo=github&color=00D9FF)
   ![GitHub forks](https://img.shields.io/github/forks/xl337x/Wizard-Octopus?style=for-the-badge&logo=github&color=00D9FF)
+
+  ### 🛡️ [ADTest](https://github.com/xl337x/ADtest)
+  
+  *Active Directory enumeration toolkit with two-phase approach and command generator*
+  
+  ![GitHub stars](https://img.shields.io/github/stars/xl337x/ADtest?style=for-the-badge&logo=github&color=00D9FF)
+  ![GitHub forks](https://img.shields.io/github/forks/xl337x/ADtest?style=for-the-badge&logo=github&color=00D9FF)
   
 </div>
 
