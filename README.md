@@ -138,36 +138,6 @@
 
 ---
 
-##  About Me
-
-<div align="center">
-  
-  🌐 **Cybersecurity Professional** with expertise in offensive and defensive security
-  
-  🔍 **Threat Hunter** specializing in advanced persistent threat detection
-  
-  🛡️ **Red Team Specialist** with focus on enterprise security assessment
-  
-  ⚡ **Automation Engineer** developing cutting-edge security solutions
-  
-  📚 **Knowledge Sharer** contributing to the cybersecurity community
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 *"Security is not a product, but a process"*
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=xl337x.xl337x&color=00D9FF)
-  
-  **⭐ Star my repositories if you find them valuable**
-  
-</div>
-
----
-
 <div align="center">
 <em>"Knowledge is power, but sharing knowledge is a superpower."</em>
 
