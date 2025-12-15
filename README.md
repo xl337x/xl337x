@@ -112,25 +112,25 @@
 </div>
 
 **🎯 Enterprise Security Features:**
-- 🔒 **Multi-format IOC Processing** - JSON, Excel, CSV, and raw TXT indicator support
-- 🔧 **Intelligent IOC Normalization** - Automatic defanging repair and validation
-- 🚫 **Duplicate Detection & Deduplication** - Prevents redundant security policies
-- 🏢 **Multi-tenant Architecture** - Enterprise-ready with OAuth2 authentication
-- ⚡ **Microsoft Defender API Integration** - Seamless enterprise security automation
-- 📊 **Comprehensive Logging** - Full audit trail and operation monitoring
+ 🔒 **Multi-format IOC Processing** - JSON, Excel, CSV, and raw TXT indicator support
+ 🔧 **Intelligent IOC Normalization** - Automatic defanging repair and validation
+ 🚫 **Duplicate Detection & Deduplication** - Prevents redundant security policies
+ 🏢 **Multi-tenant Architecture** - Enterprise-ready with OAuth2 authentication
+ ⚡ **Microsoft Defender API Integration** - Seamless enterprise security automation
+ 📊 **Comprehensive Logging** - Full audit trail and operation monitoring
 
 ---
 **🔴 Red Team Operations:**
-- Advanced penetration testing and vulnerability assessment
-- Social engineering campaigns and phishing simulations
-- Enterprise Active Directory security assessments
-- Post-exploitation and lateral movement techniques
+ Advanced penetration testing and vulnerability assessment
+ Social engineering campaigns and phishing simulations
+ Enterprise Active Directory security assessments
+ Post-exploitation and lateral movement techniques
 
 **🛡️ Blue Team Defense:**
-- Real-time threat hunting and incident response
-- Security monitoring and automated alerting
-- Malware analysis and IOC development
-- Forensic analysis and threat attribution
+ Real-time threat hunting and incident response
+ Security monitoring and automated alerting
+ Malware analysis and IOC development
+ Forensic analysis and threat attribution
 
 ##  Feel Free To Connect
 
