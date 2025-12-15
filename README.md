@@ -148,27 +148,6 @@
 - Malware analysis and IOC development
 - Forensic analysis and threat attribution
 
-**⚙️ Security Automation:**
-- Custom security tooling and exploit development
-- SOAR playbook development and optimization
-- Automated threat intelligence processing
-- Enterprise security policy automation
-
----
-
-##  Current Focus
-
-<div align="center">
-  
-  **🚀 Advancing Enterprise Security Through:**
-  
-  ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF6B35?style=flat-square&logo=brain&logoColor=white)
-  ![Zero Trust](https://img.shields.io/badge/Zero_Trust-2E86AB?style=flat-square&logo=shield&logoColor=white)
-  ![Cloud Security](https://img.shields.io/badge/Cloud_Security-A23B72?style=flat-square&logo=cloud&logoColor=white)
-  
-</div>
-
----
 
 ##  Feel Free To Connect
 
