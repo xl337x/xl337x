@@ -21,10 +21,10 @@
   
 
 **🔴 Red Team Specializations:**
-- **Advanced Persistent Threat (APT) Simulation** - Emulating sophisticated threat actors
-- **Social Engineering & Phishing Campaigns** - Custom spear-phishing and pretexting operations
-- **Active Directory Exploitation** - Kerberoasting, Golden Ticket, and Domain Dominance
-- **Evasion Techniques** - AV/EDR bypass and anti-forensics methodologies
+ **Advanced Persistent Threat (APT) Simulation** - Emulating sophisticated threat actors
+ **Social Engineering & Phishing Campaigns** - Custom spear-phishing and pretexting operations
+ **Active Directory Exploitation** - Kerberoasting, Golden Ticket, and Domain Dominance
+ **Evasion Techniques** - AV/EDR bypass and anti-forensics methodologies
 
 
 ---
@@ -43,11 +43,11 @@
 </div>
 
 **🔍 Threat Hunting & Detection:**
-- **SIEM/SOAR Implementation** - Advanced security monitoring and automated response
-- **Threat Intelligence Integration** - IOC processing and threat actor tracking
-- **Behavioral Analytics** - Anomaly detection and user behavior analysis
-- **Incident Response** - Forensic analysis and containment strategies
-- **KQL Mastery** - Advanced query development for threat hunting
+ **SIEM/SOAR Implementation** - Advanced security monitoring and automated response
+ **Threat Intelligence Integration** - IOC processing and threat actor tracking
+ **Behavioral Analytics** - Anomaly detection and user behavior analysis
+ **Incident Response** - Forensic analysis and containment strategies
+ **KQL Mastery** - Advanced query development for threat hunting
 
 ---
 
