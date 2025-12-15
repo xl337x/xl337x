@@ -95,6 +95,13 @@
   ![GitHub stars](https://img.shields.io/github/stars/xl337x/Wizard-Octopus?style=for-the-badge&logo=github&color=00D9FF)
   ![GitHub forks](https://img.shields.io/github/forks/xl337x/Wizard-Octopus?style=for-the-badge&logo=github&color=00D9FF)
 
+  ### 🔍 [ExternalPentest](https://github.com/xl337x/ExternalPentest)
+  
+  *OSINT Dorks Arsenal v3.0 - Swiss Army Knife Edition with 200+ pre-configured search queries*
+  
+  ![GitHub stars](https://img.shields.io/github/stars/xl337x/ExternalPentest?style=for-the-badge&logo=github&color=00D9FF)
+  ![GitHub forks](https://img.shields.io/github/forks/xl337x/ExternalPentest?style=for-the-badge&logo=github&color=00D9FF)
+
   ### 🛡️ [ADTest](https://github.com/xl337x/ADtest)
   
   *Active Directory enumeration toolkit with two-phase approach and command generator*
