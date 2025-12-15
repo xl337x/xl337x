@@ -118,24 +118,6 @@
 - 📊 **Comprehensive Logging** - Full audit trail and operation monitoring
 
 ---
-
-##  Security Operations
-
-<div align="center">
-  
-  ```mermaid
-  graph TD
-    A[🔍 Threat Intelligence] --> B[🎯 IOC Processing]
-    A --> C[🔴 Red Team Testing]
-    B --> D[🛡️ Automated Defense]
-    C --> D
-    D --> E[⚡ Response Automation]
-    E --> F[📊 Threat Analysis]
-    F --> A
-  ```
-  
-</div>
-
 **🔴 Red Team Operations:**
 - Advanced penetration testing and vulnerability assessment
 - Social engineering campaigns and phishing simulations
@@ -147,7 +129,6 @@
 - Security monitoring and automated alerting
 - Malware analysis and IOC development
 - Forensic analysis and threat attribution
-
 
 ##  Feel Free To Connect
 
