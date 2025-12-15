@@ -18,18 +18,7 @@
 
 <div align="center">
   
-  ### 🎯 Penetration Testing & Red Team Tools
   
-  ![Metasploit](https://img.shields.io/badge/Metasploit-2E3440?style=for-the-badge&logo=metasploit&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-game&logo=wireshark&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-  
-  ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=cobalt&logoColor=white)
-  ![Empire](https://img.shields.io/badge/Empire-8B0000?style=for-the-badge&logo=empire&logoColor=white)
-  ![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=key&logoColor=white)
-  
-</div>
 
 **🔴 Red Team Specializations:**
 - **Advanced Persistent Threat (APT) Simulation** - Emulating sophisticated threat actors
