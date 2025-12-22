@@ -14,42 +14,6 @@
 
 ---
 
-## 🔴 Red Team Arsenal & Offensive Security
-
-<div align="center">
-  
-  
-
-**🔴 Red Team Specializations:**
- **Advanced Persistent Threat (APT) Simulation** - Emulating sophisticated threat actors
- **Social Engineering & Phishing Campaigns** - Custom spear-phishing and pretexting operations
- **Active Directory Exploitation** - Kerberoasting, Golden Ticket, and Domain Dominance
- **Evasion Techniques** - AV/EDR bypass and anti-forensics methodologies
-
-
----
-
-## 🛡️ Defensive Security & Threat Detection
-
-<div align="center">
-  
-  ### 🛡️ Blue Team & Detection Engineering
-  
-  ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=black)
-  ![Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-  ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-  
-</div>
-
-**🔍 Threat Hunting & Detection:**
- **SIEM/SOAR Implementation** - Advanced security monitoring and automated response
- **Threat Intelligence Integration** - IOC processing and threat actor tracking
- **Behavioral Analytics** - Anomaly detection and user behavior analysis
- **Incident Response** - Forensic analysis and containment strategies
- **KQL Mastery** - Advanced query development for threat hunting
-
----
 
 ##  GitHub Analytics
 
