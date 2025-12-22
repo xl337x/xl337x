@@ -52,32 +52,6 @@
   ![GitHub stars](https://img.shields.io/github/stars/xl337x/ADtest?style=for-the-badge&logo=github&color=00D9FF)
   ![GitHub forks](https://img.shields.io/github/forks/xl337x/ADtest?style=for-the-badge&logo=github&color=00D9FF)
   
-</div>
-
-**🎯 Enterprise Security Features:**
- 🔒 **Multi-format IOC Processing** - JSON, Excel, CSV, and raw TXT indicator support
- 🔧 **Intelligent IOC Normalization** - Automatic defanging repair and validation
- 🚫 **Duplicate Detection & Deduplication** - Prevents redundant security policies
- 🏢 **Multi-tenant Architecture** - Enterprise-ready with OAuth2 authentication
- ⚡ **Microsoft Defender API Integration** - Seamless enterprise security automation
- 📊 **Comprehensive Logging** - Full audit trail and operation monitoring
-
----
-**🔴 Red Team Operations:**
- Advanced penetration testing and vulnerability assessment
- Social engineering campaigns and phishing simulations
- Enterprise Active Directory security assessments
- Post-exploitation and lateral movement techniques
-
-**🛡️ Blue Team Defense:**
- Real-time threat hunting and incident response
- Security monitoring and automated alerting
- Malware analysis and IOC development
- Forensic analysis and threat attribution
-
-##  Feel Free To Connect
-
-<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shammari)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xl337x)
