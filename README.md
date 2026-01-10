@@ -12,21 +12,7 @@
   
 </div>
 
----
 
-
-##  GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xl337x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xl337x&theme=tokyonight&hide_border=true&layout=compact&card_width=320&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" height="170" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xl337x&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
----
 ## Latest Security Projects
 
 <div align="center">
