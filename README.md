@@ -9,6 +9,14 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahdiesta@gmail.com)
 [![Arsenal](https://img.shields.io/badge/Live%20Arsenal-111111?style=flat-square&logo=github&logoColor=white)](https://xl337x.github.io/TheCompleteMahdiestaArsenal/)
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=xl337x&theme=dark&border=E84545&ring=E84545&fire=FF6B35&currStreakLabel=E84545&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=xl337x&show_icons=true&theme=github_dark&border_color=E84545&icon_color=E84545&title_color=E84545&hide_border=false&count_private=true" alt="GitHub Stats" />
+
 </div>
 
 ---
