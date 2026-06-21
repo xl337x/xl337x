@@ -1,57 +1,67 @@
-# 👨‍💻 Mahdiesta | Network & Cybersecurity Engineer 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&background=0D1117&center=true&width=600&lines=Network+%26+Cybersecurity+Engineer;Red+Team+Specialist;Threat+Hunter+%26+Detection+Engineer;Automation+Security+Enthusiast" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  
-  **🎯 Network & Cybersecurity Engineer** | **🔴 Red Team Specialist** | **🛡️ Threat Hunter**
-  
-  *Securing the digital landscape through advanced threat detection and offensive security*
-  
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=E84545&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;Building+Open+Source+Security+Tools;Penetration+Testing;15%2B+Public+Security+Tools" alt="Typing SVG" />
 
+<br/>
 
-## Latest Security Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shammari)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/mahdiesta)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahdiesta@gmail.com)
+[![Arsenal](https://img.shields.io/badge/Live%20Arsenal-111111?style=flat-square&logo=github&logoColor=white)](https://xl337x.github.io/TheCompleteMahdiestaArsenal/)
 
-<div align="center">
-  
-  ### 🐙 [Wizard Octopus](https://github.com/xl337x/Wizard-Octopus)
-  
-  *Enterprise-grade IOC ingestion and automated blocking for Microsoft Defender*
-  
-  ![GitHub stars](https://img.shields.io/github/stars/xl337x/Wizard-Octopus?style=for-the-badge&logo=github&color=00D9FF)
-  ![GitHub forks](https://img.shields.io/github/forks/xl337x/Wizard-Octopus?style=for-the-badge&logo=github&color=00D9FF)
-
-  ### 🔍 [ExternalPentest](https://github.com/xl337x/ExternalPentest)
-  
-  *OSINT Dorks Arsenal v3.0 - Swiss Army Knife Edition with 200+ pre-configured search queries*
-  
-  ![GitHub stars](https://img.shields.io/github/stars/xl337x/ExternalPentest?style=for-the-badge&logo=github&color=00D9FF)
-  ![GitHub forks](https://img.shields.io/github/forks/xl337x/ExternalPentest?style=for-the-badge&logo=github&color=00D9FF)
-
-  ### 🛡️ [ADTest](https://github.com/xl337x/ADtest)
-  
-  *Active Directory enumeration toolkit with two-phase approach and command generator*
-  
-  ![GitHub stars](https://img.shields.io/github/stars/xl337x/ADtest?style=for-the-badge&logo=github&color=00D9FF)
-  ![GitHub forks](https://img.shields.io/github/forks/xl337x/ADtest?style=for-the-badge&logo=github&color=00D9FF)
-  
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shammari)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xl337x)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/mahdiesta)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdiesta@gmail.com)
-  
 </div>
 
 ---
 
-<div align="center">
-<em>"Knowledge is power, but sharing knowledge is a superpower."</em>
+## Projects
+
+| Repo | Description |
+|---|---|
+| [TheCompleteMahdiestaArsenal](https://github.com/xl337x/TheCompleteMahdiestaArsenal) | Browser-based offensive security reference - 15 modules, live variable substitution |
+| [uploadpwner](https://github.com/xl337x/uploadpwner) | File upload exploitation framework v6.0 |
+| [AuthFinder](https://github.com/xl337x/AuthFinder) | Multi-protocol access discovery and command execution engine |
+| [ADtest](https://github.com/xl337x/ADtest) | Active Directory attack reference |
+| [ExternalPentest](https://github.com/xl337x/ExternalPentest) | External penetration testing reference |
+| [easydork](https://github.com/xl337x/easydork) | OSINT dork engine |
+| [ligolo-helper](https://github.com/xl337x/ligolo-helper) | Ligolo-ng tunnel setup helper |
+| [transfer_files](https://github.com/xl337x/transfer_files) | File transfer one-liners |
+| [CVE-2023-31902](https://github.com/xl337x/CVE-2023-31902) | CVE-2023-31902 proof of concept |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6&height=100&section=footer&text=Protecting%20Your%20Cyber%20Space&fontSize=16&fontAlignY=65&fontColor=ffffff" alt="Signature" />
+<div align="center">
+<sub>All tools are for authorized testing only.</sub>
+</div><div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=E84545&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;Building+Open+Source+Security+Tools;Penetration+Testing;15%2B+Public+Security+Tools" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shammari)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/mahdiesta)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahdiesta@gmail.com)
+[![Arsenal](https://img.shields.io/badge/Live%20Arsenal-111111?style=flat-square&logo=github&logoColor=white)](https://xl337x.github.io/TheCompleteMahdiestaArsenal/)
+
+</div>
+
+---
+
+## Projects
+
+| Repo | Description |
+|---|---|
+| [TheCompleteMahdiestaArsenal](https://github.com/xl337x/TheCompleteMahdiestaArsenal) | Browser-based offensive security reference - 15 modules, live variable substitution |
+| [uploadpwner](https://github.com/xl337x/uploadpwner) | File upload exploitation framework v6.0 |
+| [AuthFinder](https://github.com/xl337x/AuthFinder) | Multi-protocol access discovery and command execution engine |
+| [ADtest](https://github.com/xl337x/ADtest) | Active Directory attack reference |
+| [ExternalPentest](https://github.com/xl337x/ExternalPentest) | External penetration testing reference |
+| [easydork](https://github.com/xl337x/easydork) | OSINT dork engine |
+| [ligolo-helper](https://github.com/xl337x/ligolo-helper) | Ligolo-ng tunnel setup helper |
+| [transfer_files](https://github.com/xl337x/transfer_files) | File transfer one-liners |
+| [CVE-2023-31902](https://github.com/xl337x/CVE-2023-31902) | CVE-2023-31902 proof of concept |
+
+---
+
+<div align="center">
+<sub>All tools are for authorized testing only.</sub>
 </div>
