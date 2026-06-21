@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=E84545&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;Building+Open+Source+Security+Tools;Penetration+Testing;15%2B+Public+Security+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=E84545&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;OSCP%2B+%7C+OSCP+%7C+eCPPT+%7C+eWPT+%7C+eCIR;Building+Open+Source+Security+Tools;From+Recon+to+Root" alt="Typing SVG" />
 
 <br/>
 
