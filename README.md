@@ -4,6 +4,14 @@
 
 <br/>
 
+![OSCP+](https://img.shields.io/badge/OSCP%2B-E84545?style=flat-square)
+![OSCP](https://img.shields.io/badge/OSCP-E84545?style=flat-square)
+![eCPPT](https://img.shields.io/badge/eCPPT-E84545?style=flat-square)
+![eWPT](https://img.shields.io/badge/eWPT-E84545?style=flat-square)
+![eCIR](https://img.shields.io/badge/eCIR-E84545?style=flat-square)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shammari)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/mahdiesta)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahdiesta@gmail.com)
@@ -32,10 +40,11 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xl337x&show_icons=true&theme=github_dark&border_color=E84545&icon_color=E84545&title_color=E84545&hide_border=false&count_private=true&hide=contribs" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xl337x&layout=compact&theme=github_dark&border_color=E84545&title_color=E84545&hide_border=false&langs_count=6" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xl337x&show_icons=true&theme=github_dark&border_color=E84545&icon_color=E84545&title_color=E84545&hide_border=false&count_private=true&hide=contribs&cache_seconds=1800" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xl337x&layout=compact&theme=github_dark&border_color=E84545&title_color=E84545&hide_border=false&langs_count=6&cache_seconds=1800" />
 
 <br/><br/>
+
 <sub>All tools are for authorized testing only.</sub>
 
 </div>
