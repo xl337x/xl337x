@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=E84545&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;OSCP%2B+%7C+OSCP+%7C+eCPPT+%7C+eWPT+%7C+eCIR;Building+Open+Source+Security+Tools;From+Recon+to+Root" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=E84545&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;I+build+the+tooling+the+op+needs;Assume+breach.+Prove+impact." alt="" />
 
 <br/>
 
@@ -21,11 +21,11 @@
 
 ---
 
-## Projects
+## Arsenal
 
 | Repo | Description |
 |---|---|
-| [TheCompleteMahdiestaArsenal](https://github.com/xl337x/TheCompleteMahdiestaArsenal) | Browser-based offensive security reference - 15 modules, live variable substitution |
+| [TheCompleteMahdiestaArsenal](https://github.com/xl337x/TheCompleteMahdiestaArsenal) | Browser-based offensive security reference. 15 modules, live variable substitution |
 | [uploadpwner](https://github.com/xl337x/uploadpwner) | File upload exploitation framework v6.0 |
 | [AuthFinder](https://github.com/xl337x/AuthFinder) | Multi-protocol access discovery and command execution engine |
 | [ADtest](https://github.com/xl337x/ADtest) | Active Directory attack reference |
@@ -34,16 +34,11 @@
 | [ligolo-helper](https://github.com/xl337x/ligolo-helper) | Ligolo-ng tunnel setup helper |
 | [transfer_files](https://github.com/xl337x/transfer_files) | File transfer one-liners |
 | [CVE-2023-31902](https://github.com/xl337x/CVE-2023-31902) | CVE-2023-31902 proof of concept |
-| [Wizard-Octopus](https://github.com/xl337x/Wizard-Octopus) | IOC blocking automation for Microsoft Defender - single and multi-tenant |
+| [Wizard-Octopus](https://github.com/xl337x/Wizard-Octopus) | IOC blocking automation for Microsoft Defender, single and multi-tenant |
 
 ---
 
 <div align="center">
-
-<img height="150em" src="https://YOUR-INSTANCE.vercel.app/api?username=xl337x&show_icons=true&theme=github_dark&border_color=E84545&icon_color=E84545&title_color=E84545&hide_border=false&count_private=true&hide=contribs&cache_seconds=1800" />
-<img height="150em" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=xl337x&layout=compact&theme=github_dark&border_color=E84545&title_color=E84545&hide_border=false&langs_count=6&cache_seconds=1800" />
-
-<br/><br/>
 
 <sub>All tools are for authorized testing only.</sub>
 
