@@ -40,8 +40,8 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xl337x&show_icons=true&theme=github_dark&border_color=E84545&icon_color=E84545&title_color=E84545&hide_border=false&count_private=true&hide=contribs&cache_seconds=1800" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xl337x&layout=compact&theme=github_dark&border_color=E84545&title_color=E84545&hide_border=false&langs_count=6&cache_seconds=1800" />
+<img height="150em" src="https://YOUR-INSTANCE.vercel.app/api?username=xl337x&show_icons=true&theme=github_dark&border_color=E84545&icon_color=E84545&title_color=E84545&hide_border=false&count_private=true&hide=contribs&cache_seconds=1800" />
+<img height="150em" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=xl337x&layout=compact&theme=github_dark&border_color=E84545&title_color=E84545&hide_border=false&langs_count=6&cache_seconds=1800" />
 
 <br/><br/>
 
