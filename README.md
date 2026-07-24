@@ -40,6 +40,6 @@
 
 <div align="center">
 
-<sub>All tools are for authorized testing only.</sub>
+<sub>All tools are for authorized testing only</sub>
 
 </div>
